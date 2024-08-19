@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/scrap", {data:[{_img:{}}],fetch:{},mutations:[]});
